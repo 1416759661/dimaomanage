@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-codec-1.9">
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/commons-codec-1.9.jar" />
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/commons-io-2.4.jar" />
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/json.jar" />
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar" />
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/ueditor-1.1.2.jar" />
+  </library>
+  <library name="fastjson-1.1.41">
+    <archive path="D:/DimaoManage/web/WEB-INF/lib/fastjson-1.1.41.jar" />
+  </library>
+</eclipse-userlibraries>
+

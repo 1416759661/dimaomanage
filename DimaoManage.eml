@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/web/WEB-INF/classes"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.90" scope="PROVIDED"/>
+	<levels>
+		<level name="commons-codec-1.9" value="project"/>
+		<level name="fastjson-1.1.41" value="project"/>
+		<level name="Tomcat 7.0.90" value="application_server_libraries"/>
+	</levels>
+</component>
